@@ -960,3 +960,12 @@ def fact(n):
 print(fact(5))'''
 
 
+'''def hash_code():
+    f = []
+    f.extend(["kerfuffle","broom", "hroom", "ragamuffin", "donkey", 
+             "brekky", "blob", "zenzizenzizenzic", "yap"])
+    for item in sorted(f, key=len):
+        print("len:", len(item), "item:", item)
+
+hash_code()'''
+
